@@ -1,1 +1,1 @@
-current working diretory
+my directory
